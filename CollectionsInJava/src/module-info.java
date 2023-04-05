@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author metre
+ *
+ */
+module CollectionsInJava {
+}
